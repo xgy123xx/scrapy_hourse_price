@@ -99,5 +99,5 @@ SCHEDULER = "scrapy_redis.scheduler.Scheduler"
 # 是否允许暂停
 SCHEDULER_PERSIST = True
 
-REDIS_HOST = '139.199.32.236'
-REDIS_PORT = 6379
+REDIS_HOST = ''
+REDIS_PORT = 
